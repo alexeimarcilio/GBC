@@ -1,0 +1,12 @@
+Assignment for next week:
+# Small assignment
+Get rid of the outliers
+Retrain the model
+Comment on whether it is better or worse
+
+Assignment #1:
+Fit and visualize a linear model using housing data
+Single and Multiple regression
+Try several features
+Home database
+Don't delete outliers
